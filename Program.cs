@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Microsoft.VisualBasic.FileIO;
 
 namespace csv_to_md
@@ -6,8 +7,10 @@ namespace csv_to_md
     class Program
     {
         static void Main(string[] args)
-        {
-            string filePath = args[1];                        
+        {            
+            string filePath = args[1];           
+            string outputPath = Environment.CurrentDirectory + "/newFile.md";
+
             using (TextFieldParser parser = new TextFieldParser(filePath)) 
             {
                 parser.TextFieldType = FieldType.Delimited;
@@ -20,6 +23,11 @@ namespace csv_to_md
                         Console.WriteLine(field);
                     }
                 }
+            }
+
+            if (!File.Exists(outputPath))
+            {
+                File.Create(outputPath);
             }
         }
     }
