@@ -20,15 +20,13 @@ Note, this will overwrite the output file if one already exists.
 
 ## To Do 
 
-[x] ingest reasonably formatted csv
-[x] output empty .md file
-[x] output md with default template
-[x] parse input into raw MD and insert into output template
-  - skips header
-[] parse basic formatting (bold, italic, etc.) from header values
-[] override default header sizes from csv header values
-[] swap bespoke templating with robust library (handlebars?)
-[] swap csv ingestion with robust library
-[] safer file handling
-  - warn on file delete or append number to output file if collision  
-[] unit tests
+[x] ingest reasonably formatted csv  
+[x] output empty .md file  
+[x] output md with default template  
+[x] parse input into raw MD and insert into output template (skips header)  
+[] parse basic formatting (bold, italic, etc.) from header values  
+[] override default header sizes from csv header values  
+[] swap bespoke templating with robust library (handlebars?)  
+[] swap csv ingestion with robust library  
+[] safer file handling (warn on file delete or append number to output file if collision)  
+[] unit tests  
