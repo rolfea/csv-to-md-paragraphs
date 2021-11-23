@@ -1,0 +1,16 @@
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md.deps.json
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md.runtimeconfig.json
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md.runtimeconfig.dev.json
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md.dll
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/ref/csv-to-md.dll
+/home/eunoia/Code/dotnet/csv-to-md/bin/Debug/net5.0/csv-to-md.pdb
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.csproj.AssemblyReference.cache
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.GeneratedMSBuildEditorConfig.editorconfig
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.AssemblyInfoInputs.cache
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.AssemblyInfo.cs
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.csproj.CoreCompileInputs.cache
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.dll
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/ref/csv-to-md.dll
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.pdb
+/home/eunoia/Code/dotnet/csv-to-md/obj/Debug/net5.0/csv-to-md.genruntimeconfig.cache
